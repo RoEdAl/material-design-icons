@@ -8,6 +8,7 @@ SET(PNGS
 	action/info
 	action/preview
 	action/today
+	action/launch
 	av/album
 	av/audio_file
 	av/library_music
