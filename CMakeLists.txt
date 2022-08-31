@@ -5,6 +5,7 @@
 # list of icons
 SET(PNGS
 	action/aspect_ratio
+	action/edit_calendar
 	action/info
 	action/preview
 	action/today
@@ -25,6 +26,8 @@ SET(PNGS
 	file/folder_open
 	image/audiotrack
 	image/image
+	image/flash_on
+	image/flash_off
 	image/picture_as_pdf
 	navigation/arrow_downward
 	navigation/more_horiz
